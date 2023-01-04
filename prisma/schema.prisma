@@ -34,6 +34,7 @@ model User {
   name    String?
   name2   String?
   name3   String?
+  name4   String?
   posts   Post[]
   profile Profile?
 }
